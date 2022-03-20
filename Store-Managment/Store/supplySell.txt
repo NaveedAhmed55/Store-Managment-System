@@ -1,0 +1,14 @@
+1$Naveed$Colgate$12
+2$Naveed$Surf$21
+3$Naveed$Surf$21
+4$CName$Surf$55
+5$CName$Surf$55
+6$CName$Garnier2$2
+7$CName$Pantene$2
+8$CName$Pantene$12
+9$CName$Dove$12
+10$Naveed$Pantene$2
+11$Naveed$Pantene$2
+12$Naveed$Dove$2
+13$Naveed$Dove$1
+$Friday, 18 March 2022

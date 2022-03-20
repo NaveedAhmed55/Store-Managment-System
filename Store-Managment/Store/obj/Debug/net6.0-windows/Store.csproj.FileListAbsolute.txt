@@ -1,0 +1,72 @@
+C:\Users\Naveed Ahmed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.exe
+C:\Users\Naveed Ahmed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.dll
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Form1.resources
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Form2.resources
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Form3.resources
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Form4.resources
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.GenerateResource.cache
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.AssemblyInfoInputs.cache
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.AssemblyInfo.cs
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.CoreCompileInputs.cache
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.dll
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\ref\Store.dll
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.pdb
+C:\Users\Naveed Ahmed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.deps.json
+C:\Users\Naveed Ahmed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.runtimeconfig.json
+C:\Users\Naveed Ahmed\source\repos\Store\Store\bin\Debug\net6.0-windows\ref\Store.dll
+C:\Users\Naveed Ahmed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.pdb
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.AssemblyReference.cache
+C:\Users\Naveed Ahmed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.genruntimeconfig.cache
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.exe
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.deps.json
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.runtimeconfig.json
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.dll
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\ref\Store.dll
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.pdb
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.AssemblyReference.cache
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Form1.resources
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Form2.resources
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.GenerateResource.cache
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.AssemblyInfoInputs.cache
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.AssemblyInfo.cs
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.CoreCompileInputs.cache
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.dll
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\ref\Store.dll
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.pdb
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.genruntimeconfig.cache
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\IconButton.dll
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Xamarin.Forms.Core.dll
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Xamarin.Forms.Platform.dll
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Xamarin.Forms.Xaml.dll
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.CopyComplete
+D:\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Loading.resources
+D:\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Properties.Resources.resources
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.exe
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.deps.json
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.runtimeconfig.json
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.dll
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\ref\Store.dll
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Store.pdb
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\IconButton.dll
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Xamarin.Forms.Core.dll
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Xamarin.Forms.Platform.dll
+D:\courses\Naveed\source\repos\Store\Store\bin\Debug\net6.0-windows\Xamarin.Forms.Xaml.dll
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.AssemblyReference.cache
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Form1.resources
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Form2.resources
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Loading.resources
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.Properties.Resources.resources
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.GenerateResource.cache
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.AssemblyInfoInputs.cache
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.AssemblyInfo.cs
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.CoreCompileInputs.cache
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.csproj.CopyComplete
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.dll
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\ref\Store.dll
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.pdb
+D:\courses\Naveed\source\repos\Store\Store\obj\Debug\net6.0-windows\Store.genruntimeconfig.cache

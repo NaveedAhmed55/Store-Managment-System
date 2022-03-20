@@ -1,0 +1,16 @@
+1$Garnier2$2$
+2$Garnier2$12$
+3$Colgate$2$
+4$Pantene$2$
+5$Pantene$2$
+6$Garnier2$1$
+7$Pantene$2$
+8$Pantene$2$
+9$Pantene$2$
+10$Pantene$2$
+11$Pantene$1$
+12$Pantene$2$
+13$Colgate$2$
+14$Pantene$1$
+15$Pantene$2$
+16$Pantene$2$

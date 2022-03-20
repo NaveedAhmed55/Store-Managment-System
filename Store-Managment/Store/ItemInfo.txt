@@ -1,0 +1,15 @@
+1$Pantene$54$84
+2$Dove$1$00
+3$Garnier2$3$32
+4$Surf$3$800
+5$Colgate$46$8000
+6$Hero$1000$90
+7$Shaoo$90$10
+8$Hero2$90$20
+9$Name$90$90
+10$Hp$100$1000
+11$Dell$80$93999
+12$Surf$23$
+13$Surf$25$
+14$Hellofnf$43$45
+15$Iemmms$2$65
